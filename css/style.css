@@ -1,0 +1,98 @@
+#titre-principal{
+  background-color:#FF0000 ;
+  font-weight:800;
+  text-align: center;
+ font-family: Arial, Helvetica, sans-serif; 
+ color: #FFFFFF;
+ text-decoration: underline;
+}
+
+
+
+#Logo-equipe{
+  width: 50%;
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#video{
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.image{
+  width: 25%;
+  border-radius: 30px;
+  margin: 20px;
+}
+
+
+
+
+.soustitre{background-color: #FF0000;
+box-shadow: 1px 1px 5px #000000;
+		text-align: center;
+		margin-top: 30px;
+		margin-bottom: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #F5F5F5;
+}
+
+
+
+.titre{background-color: #FF0000;
+box-shadow: 1px 1px 5px #000000;
+		text-align: center;
+		margin-top: 30px;
+		margin-bottom: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #F5F5F5;
+}
+
+
+
+.text{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  font-weight: bold ;
+  }
+
+
+.score{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 50px;
+  margin-left: 50%;
+  }
+
+.drapeau{
+  position: absolute;
+  width: 200px;
+  
+}
+.suisse{
+  position: absolute;
+  width: 133px;
+  margin-left: 80%;
+}
+
+#drapeau_suisse{
+  padding-top: 150;
+  
+}
+#portugal{
+  position: absolute;
+  
+}
+#espagne{
+  position: absolute;
+  padding-top: 150;}
+ 
+#espagne_suisse{
+  position: absolute;
+  padding-top: 150;
+} 
+
+#portugal_suisse{
+  position: absolute;
+}
